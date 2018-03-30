@@ -1,0 +1,172 @@
+{
+  "personChallengeSummaries": [
+    {
+      "personKey": "6be2f251-bc61-4696-bbf3-d2e999f0c5b9",
+      "firstName": "Jim",
+      "lastName": "Kilty",
+      "imageHashValue": null,
+      "stepsToDate": 2031201,
+      "monthTotal": 0,
+      "todayTotal": 0,
+      "stepCountPosition": 1,
+      "averageStepsPerDay": 5262,
+      "pledgeAmountToDate": 22,
+      "pledgeTotalPosition": 4,
+      "stepCountLastUpdateDateTimeUtc": "2017-08-30T21:14:26.95Z",
+      "lastStepCountDateWithValue": "2017-08-30T00:00:00Z",
+      "deviceBrand": "Fitbit"
+    },
+    {
+      "personKey": "c9afe906-3be7-4593-9d91-75e381ac3b6a",
+      "firstName": "Chad",
+      "lastName": "Christians",
+      "imageHashValue": null,
+      "stepsToDate": 1093724,
+      "monthTotal": 141371,
+      "todayTotal": 0,
+      "stepCountPosition": 2,
+      "averageStepsPerDay": 2833,
+      "pledgeAmountToDate": 35,
+      "pledgeTotalPosition": 3,
+      "stepCountLastUpdateDateTimeUtc": "2017-08-27T00:09:24.4Z",
+      "lastStepCountDateWithValue": "2017-08-27T00:00:00Z",
+      "deviceBrand": "Fitbit"
+    },
+    {
+      "personKey": "3f7b50b0-3936-4bf7-98b6-4ea1119d89c2",
+      "firstName": "Kimberly",
+      "lastName": "Coleman",
+      "imageHashValue": null,
+      "stepsToDate": 975656,
+      "monthTotal": 141371,
+      "todayTotal": 0,
+      "stepCountPosition": 3,
+      "averageStepsPerDay": 2527,
+      "pledgeAmountToDate": 74,
+      "pledgeTotalPosition": 1,
+      "stepCountLastUpdateDateTimeUtc": "2017-08-24T19:37:34.62Z",
+      "lastStepCountDateWithValue": "2017-08-24T00:00:00Z",
+      "deviceBrand": "Fitbit"
+    },
+    {
+      "personKey": "9a9c38d3-9ffa-4999-a59e-bc32f306eecb",
+      "firstName": "Angela",
+      "lastName": "Christians",
+      "imageHashValue": null,
+      "stepsToDate": 197648,
+      "monthTotal": 60378,
+      "todayTotal": 0,
+      "stepCountPosition": 4,
+      "averageStepsPerDay": 512,
+      "pledgeAmountToDate": 13,
+      "pledgeTotalPosition": 5,
+      "stepCountLastUpdateDateTimeUtc": "2017-04-30T22:38:56.57Z",
+      "lastStepCountDateWithValue": "2017-04-30T00:00:00Z",
+      "deviceBrand": "Fitbit"
+    },
+    {
+      "personKey": "addf5720-cf95-4eb4-a792-b48d5ae2461e",
+      "firstName": "Noahx",
+      "lastName": "DiCenso",
+      "imageHashValue": null,
+      "stepsToDate": 0,
+      "monthTotal": 0,
+      "todayTotal": 0,
+      "stepCountPosition": 5,
+      "averageStepsPerDay": 0,
+      "pledgeAmountToDate": 38,
+      "pledgeTotalPosition": 2,
+      "stepCountLastUpdateDateTimeUtc": "1900-01-01T00:00:00Z",
+      "lastStepCountDateWithValue": "1900-01-01T00:00:00Z",
+      "deviceBrand": "Apple"
+    },
+    {
+      "personKey": "27ed307a-23af-47cd-8855-34bd0978054a",
+      "firstName": "Tyler",
+      "lastName": "Rothermund",
+      "imageHashValue": null,
+      "stepsToDate": 0,
+      "monthTotal": 0,
+      "todayTotal": 0,
+      "stepCountPosition": 5,
+      "averageStepsPerDay": 0,
+      "pledgeAmountToDate": 0,
+      "pledgeTotalPosition": 6,
+      "stepCountLastUpdateDateTimeUtc": "1900-01-01T00:00:00Z",
+      "lastStepCountDateWithValue": "1900-01-01T00:00:00Z",
+      "deviceBrand": null
+    }
+  ],
+  "viewingParticipantPersonKey": "27ed307a-23af-47cd-8855-34bd0978054a",
+  "viewingParticipantFirstName": "Tyler",
+  "viewingParticipantLastName": "Rothermund",
+  "messages": [
+    {
+      "messageType": 1,
+      "message": "Congratulations! You reached the goal of {0} steps! Keep on stepping!"
+    },
+    {
+      "messageType": 1,
+      "message": "You did it! You successfully walked {0} steps! Don't stop now!"
+    },
+    {
+      "messageType": 2,
+      "message": "Congratulations! You are in 1st place!"
+    },
+    {
+      "messageType": 2,
+      "message": "You are leading the pack. Don't stop now!"
+    },
+    {
+      "messageType": 2,
+      "message": "You are currently #1 in steps. You've got this!"
+    },
+    {
+      "messageType": 3,
+      "message": "You've moved up {0} place(s)! Good Work!"
+    },
+    {
+      "messageType": 3,
+      "message": "Congratulations! You've moved up {0} place(s)! Great Work!"
+    },
+    {
+      "messageType": 3,
+      "message": "Keep it up! You've moved up {0} place(s)! Don't stop now!"
+    },
+    {
+      "messageType": 3,
+      "message": "Keep on trucking! You've moved up {0} place(s)!"
+    },
+    {
+      "messageType": 4,
+      "message": "Uh Oh! You've dropped {0} place(s)!"
+    },
+    {
+      "messageType": 4,
+      "message": "Keep on Walking! You've dropped {0} place(s)!"
+    },
+    {
+      "messageType": 4,
+      "message": "Cowboy up and Walk! You've dropped {0} place(s)!"
+    },
+    {
+      "messageType": 4,
+      "message": "Step it up! You've dropped {0} place(s)!"
+    }
+  ],
+  "totalStepCount": 4298229,
+  "averageDailyStepCount": 11135.3086,
+  "totalPledgeAmount": 182.0,
+  "averagePlegdeAmount": 30.333333333333333333333333333,
+  "companyPledgeAmount": 182.0,
+  "totalParticipantCount": 6,
+  "totalDaysInChallenge": 182,
+  "currentDayInChallenge": 386,
+  "challengeStepGoal": 1000000,
+  "isDeleted": false,
+  "stepChallengeKey": 6,
+  "title": "MSC Pre-Test",
+  "description": "MSC Pre-Test",
+  "startDate": "2017-03-01T00:00:00",
+  "endDate": "2017-08-30T00:00:00"
+}

@@ -3,8 +3,16 @@
 import Vue from 'vue'
 import App from './App.vue'
 import router from './router'
+import BootstrapVue from 'bootstrap-vue'
+import Filters from "./filters/filters";
+import './assets/css/msc.css';
 
+
+Vue.use(BootstrapVue);
 Vue.config.productionTip = false
+Filters.register();
+
+
 
 /* eslint-disable no-new */
 new Vue({

@@ -1,36 +1,39 @@
 <template>
+<form>
   <div class="hello">
     <h1>{{ message }}</h1>
     <button @click="clicked">Click</button>
+    <span >{{message}}</span>
+    <input type="text" required minlength="3" min=3 v-model="message">
   </div>
+  </form>
 </template>
 
 <script lang="ts">
-export default {
-  name: 'hello',
-  data () {
-    return {
-      message: 'Welcome to Your Vue.js App'
-    }
-  },
+import Vue from 'vue';
+import Component from 'vue-class-component'
 
-  computed: {
-    fullMessage(){
-      return `${this.message} from Typescript`;
-    }
-  },
+@Component({})
+export default class Hello extends Vue {
 
-  created() {
-    console.log('created');
-  },
 
-  methods: {
-    clicked(){
-      console.log('clicked');
-    }
+  message: string = "Hello Vue!";
+
+  get fullMessage() {
+    return `${this.message} from TypeScript`;
+  }
+
+  created () {
+    console.log('created!');
+  }
+
+  clicked = () => {
+    console.log('clicked');
   }
 }
 </script>
+
+
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>

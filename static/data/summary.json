@@ -1,0 +1,17 @@
+{
+  "totalStepCount": 4298229,
+  "averageDailyStepCount": 11135.3086,
+  "totalPledgeAmount": 182.0,
+  "averagePlegdeAmount": 30.333333333333333333333333333,
+  "companyPledgeAmount": 182.0,
+  "totalParticipantCount": 6,
+  "totalDaysInChallenge": 182,
+  "currentDayInChallenge": 386,
+  "challengeStepGoal": 1000000,
+  "isDeleted": false,
+  "stepChallengeKey": 6,
+  "title": "MSC Pre-Test",
+  "description": "MSC Pre-Test",
+  "startDate": "2017-03-01T00:00:00",
+  "endDate": "2017-08-30T00:00:00"
+}
