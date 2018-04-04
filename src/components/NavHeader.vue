@@ -12,8 +12,8 @@
   <b-collapse is-nav id="nav_collapse">
 
     <b-navbar-nav>
-      <b-nav-item to="/participants">Participants</b-nav-item>
       <b-nav-item to="/leaderboard">Leaderboard</b-nav-item>
+      <b-nav-item to="/addsteps">Add Steps</b-nav-item>
     </b-navbar-nav>
 
     <!-- Right aligned nav items -->

@@ -4,7 +4,7 @@
     <b-form-input v-model="searchText" placeholder="Search"/>
     <b-table striped hover :items="filteredItems" :fields="fields" :sort-by.sync="sortBy" :sort-desc.sync="sortDesc">
       <template slot="image" slot-scope="data">
-        <div class="padding-none align-left">
+        <div>
           <div class="profile-img profile-img-xs" style="display:inline">
               <img class="img-responsive" src="https://msc-qa.azurewebsites.net/api/Media/GetPersonImage?personKey=c7206181-c75f-4109-bb7e-7b1e0d2b24ac&height=50&width=44&mode=crop&scale=both" />
           </div>
